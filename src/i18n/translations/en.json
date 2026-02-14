@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "whyUs": "Why Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "L-Ectric – Professional Electrical Services, No Compromises",
+    "subheadline": "Reliability. Precision. Safety. Smart solutions for home and business.",
+    "ctaPrimary": "Call Now",
+    "ctaSecondary": "Send WhatsApp Message"
+  },
+  "about": {
+    "title": "About L-Ectric",
+    "paragraphs": [
+      "My name is Liran, and I bring a unique combination of two worlds – experience as a professional electrician in the field, alongside significant background from the tech industry.",
+      "The transition and experience in tech sharpened my exceptionally high work standards: attention to detail, systems thinking, meticulous planning, and solving problems in a smart, non-improvised way. For me, electrical work isn't just about \"connecting and making it work\" – it's about proper, safe, and aesthetic execution that lasts for years.",
+      "I believe in reliable, transparent, and professional service. The client should understand what's being done in their home or business, why it's being done – and what it costs. No games, no shortcuts, no surprises.",
+      "Every job is performed with full responsibility, emphasis on safety, clean work, and personal service at eye level.",
+      "L-Ectric was founded from a desire to bring a different level of professionalism to the market – smart, organized, and precise electrical service, with genuine human connection."
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "items": [
+      {
+        "title": "Home Electrical Work",
+        "desc": "Installations, repairs, and upgrades – all residential electrical work with full professionalism."
+      },
+      {
+        "title": "Electrical Panel Upgrades",
+        "desc": "Upgrading old panels, adding circuits, and adapting to modern needs."
+      },
+      {
+        "title": "Fault Detection & Repair",
+        "desc": "Quick detection of electrical faults and professional solutions for every problem."
+      }
+    ]
+  },
+  "whyUs": {
+    "title": "Why Choose Us",
+    "items": [
+      {
+        "title": "Reliable & Fast Service",
+        "desc": "We arrive on time, work efficiently."
+      },
+      {
+        "title": "Fair Pricing",
+        "desc": "Transparent pricing, no surprises."
+      },
+      {
+        "title": "Clean Work",
+        "desc": "We leave the place tidy behind us."
+      },
+      {
+        "title": "Licensed & Certified",
+        "desc": "Certified and insured electrician. License no. 996726"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to help – get in touch anytime",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "area": "Service Area: Central Israel",
+    "form": {
+      "name": "Name",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully! We'll get back to you soon."
+    }
+  },
+  "footer": {
+    "brand": "L-Ectric",
+    "tagline": "Professional Electrical Services",
+    "copyright": "© All rights reserved"
+  }
+}
